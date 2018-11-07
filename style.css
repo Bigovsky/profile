@@ -104,3 +104,7 @@ a:hover{
 .movie-img img{
   width: 50%;
 }
+
+.movie-txt{
+  font-size: 50%;
+}
