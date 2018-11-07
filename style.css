@@ -75,6 +75,19 @@ a:hover{
   #container {
     width: 300px;
   }
+
+  .btn-style{
+  background-color: #ebbb91;
+  margin: 20%;
+  border-radius: 5%;
+  }
+
+  .btn-style:hover{
+  background-color: #ebbb91;
+  margin: 20%;
+  border-radius: 5%;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.5);
+  }
 }
 
 .list-inline > li {
