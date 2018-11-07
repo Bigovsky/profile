@@ -100,3 +100,7 @@ a:hover{
 #rspv{
   text-align: center;
 }
+
+.card > table > img{
+  width: 50%;
+}
