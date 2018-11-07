@@ -9,12 +9,12 @@ body{
 /*#ebbb91*/
 h1{
   font-family: 'Raleway', sans-serif;
-  font-size: 45px;
+  font-size: 125%;
 }
 
 h2{
   font-family: 'Spicy Rice', cursive;
-  font-size: 30px;
+  font-size: 100%;
   line-height: 15px;
 }
 
